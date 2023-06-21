@@ -30,15 +30,15 @@ Here are some ideas to get you started:
 
 <strong>Welcome to my GitHub profile.</strong>
 </pre>
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/>Hey, I'm Sagnik Ghosh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/>Hey, I'm Sanket Nangare! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>You can learn more about me at <a href="https://sagnikghosh.dev/">sagnikghosh.dev</a></p>
+<p>You can learn more about me at <a href="https://sanketnangare.netlify.app/">sanketnangare</a></p>
 
 <p align="center">
       <img src = "https://user-images.githubusercontent.com/64497647/126317921-3bb49ca0-e6eb-4781-af70-d1593e161332.gif"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik11&label=Views&color=orange&style=plastic" alt="sagnik11" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket9999&label=Views&color=orange&style=plastic" alt="sanket9999" /> </p>
 
 <a href="https://twitter.com/iam_sagnik_ghosh">
   <img align="left" alt="Sagnik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 
 
 [![LinkedIn: Sagnik](https://img.shields.io/badge/-Sagnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pallavi/)](https://www.linkedin.com/in/sagnikghosh1111/)
-[![GitHub: Sagnik](https://img.shields.io/github/followers/sagnik11?label=follow&style=social)](https://github.com/sagnik11)
+[![GitHub: Sagnik](https://img.shields.io/github/followers/sanket9999?label=follow&style=social)](https://github.com/sanket9999)
 
-<a href="https://github.com/sagnik11">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnik11&show_icons=true&theme=dark&line_height=27" alt="Sagnik's github stats"/>
+<a href="https://github.com/sanket9999">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket9999&show_icons=true&theme=dark&line_height=27" alt="Sagnik's github stats"/>
 </a>
 <br>
 <br>
@@ -117,9 +117,9 @@ Here are some ideas to get you started:
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 
 </p>
-<img align="center" src="https://streak-stats.demolab.com?user=sagnik11&theme=dark" alt="zumrudu-anka" />
+<img align="center" src="https://streak-stats.demolab.com?user=sanket9999&theme=dark" alt="zumrudu-anka" />
     </a>
     <br>
     <br>
     <br>
-<img align="left" src="https://activity-graph.herokuapp.com/graph?username=sagnik11&theme=dracula" alt="zumrudu-anka" />
+<img align="left" src="https://activity-graph.herokuapp.com/graph?username=sanket9999&theme=dracula" alt="zumrudu-anka" />
