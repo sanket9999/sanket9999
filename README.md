@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - 🌟 Lead contributor to the GitHub Repo of <a href="https://github.com/worqhat/">WorqHat</a>.
 - 🤔 We prepare Young Minds for a Better Future. -->
 - 💬 Ask me about Web Development or any tech related stuff.
-- 📫 How to reach me: [Email:sanket@worqhat.com](mailto:sanketnangare39@gmail.com)
+- 📫 How to reach me: [Email:sanketnangare39@gmail.com](mailto:sanketnangare39@gmail.com)
 
 
 
