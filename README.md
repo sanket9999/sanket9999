@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <img src = "https://user-images.githubusercontent.com/64497647/126317921-3bb49ca0-e6eb-4781-af70-d1593e161332.gif"/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket9999&label=PROFILE+VIEWS&color=blue&style=plastic" alt="sanket9999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket9999&label=PROFILE+VIEWS&color=blue&style=style=for-the-badge" alt="sanket9999" /> </p>
 
 <a href="https://twitter.com/iam_sagnik_ghosh">
   <img align="left" alt="Sagnik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
