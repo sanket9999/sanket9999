@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket9999&label=PROFILE+VIEWS&color=blue&style=style=for-the-badge" alt="sanket9999" /> </p>
 
-<a href="https://twitter.com/iam_sagnik_ghosh">
-  <img align="left" alt="Sagnik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/Sanket39nangare">
+  <img align="left" alt="Sanket's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sagnikghosh1111/">
-  <img align="left" alt="Sagnik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sanket-nangare-97b6311ab/">
+  <img align="left" alt="Sanket's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <br/>
@@ -52,20 +52,20 @@ Here are some ideas to get you started:
 
 
 - 🎓 I'm currently pursuing B.tech. in Computer Science & Engineering and expect to be graduated in 2023.
-- 🌱 CoFounder || CTO at <a href="https://www.worqhat.com">WorqHat</a>.
+<!-- - 🌱 CoFounder || CTO at <a href="https://www.worqhat.com">WorqHat</a>.
 - 🌟 Lead contributor to the GitHub Repo of <a href="https://github.com/worqhat/">WorqHat</a>.
-- 🤔 We prepare Young Minds for a Better Future.
+- 🤔 We prepare Young Minds for a Better Future. -->
 - 💬 Ask me about Web Development or any tech related stuff.
-- 📫 How to reach me: [Email:sagnik@worqhat.com](mailto:sagnik@worqhat.com)
+- 📫 How to reach me: [Email:sanket@worqhat.com](mailto:sanket@worqhat.com)
 
 
 
 
-[![LinkedIn: Sagnik](https://img.shields.io/badge/-Sagnik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pallavi/)](https://www.linkedin.com/in/sagnikghosh1111/)
-[![GitHub: Sagnik](https://img.shields.io/github/followers/sanket9999?label=follow&style=social)](https://github.com/sanket9999)
+[![LinkedIn: sanket](https://img.shields.io/badge/-sanket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pallavi/)](https://www.linkedin.com/in/sanket-nangare-97b6311ab/)
+[![GitHub: sanket](https://img.shields.io/github/followers/sanket9999?label=follow&style=social)](https://github.com/sanket9999)
 
 <a href="https://github.com/sanket9999">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket9999&show_icons=true&theme=dark&line_height=27" alt="Sagnik's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanket9999&show_icons=true&theme=dark&line_height=27" alt="sanket's github stats"/>
 </a>
 <br>
 <br>
